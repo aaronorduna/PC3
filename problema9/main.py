@@ -1,0 +1,2 @@
+import funcion
+funcion.adivinar()
